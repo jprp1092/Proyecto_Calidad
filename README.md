@@ -8,4 +8,4 @@ Training Project - Fixed Width Website
 
 - Supports modern browsers and IE11
 
--Proyecto para materia de Calidad del software, realizado por José Retna, Nayarit López, Kenneth Alvarado y Andra Mc Kenzie.
+-Proyecto para materia de Calidad del software, realizado por José Retana, Nayarit López, Kenneth Alvarado y Andra Mc Kenzie.
